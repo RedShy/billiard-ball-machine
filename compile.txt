@@ -1,0 +1,1 @@
+mpic++ bbm-bottoni.cpp -o mbbm -lallegro -lallegro_primitives -lallegro_ttf -lallegro_font
